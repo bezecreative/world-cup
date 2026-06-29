@@ -1,7 +1,5 @@
 {
-  "functions": {
-    "api/index.py": { "includeFiles": "api/tournament.json" }
-  },
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/api/index" }
   ]

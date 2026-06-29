@@ -23,7 +23,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 BASE = os.path.dirname(os.path.abspath(__file__))      # .../api
 ROOT = os.path.dirname(BASE)                            # project root
-PUBLIC = os.path.join(ROOT, "public")
+PUBLIC = os.path.join(BASE, "public")
 SEED_PATH = os.path.join(BASE, "tournament.json")
 SQLITE_PATH = os.path.join(ROOT, "bracket.db")
 

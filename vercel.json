@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/index.py": { "includeFiles": "api/tournament.json" }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/index" }
+  ]
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MOX · World Cup Bracket</title>
+<link rel="preconnect" href="/">
+<link rel="stylesheet" href="/styles.css">
+<link rel="icon" href="/assets/mox-m.png">
+</head>
+<body>
+<nav class="nav">
+  <a class="brand" href="#/" aria-label="Home">
+    <img class="logo logo-full" src="/assets/mox-logo.png" alt="MOX">
+    <img class="logo logo-mark" src="/assets/mox-m.png" alt="MOX">
+  </a>
+  <span class="sep"></span>
+  <span class="title">World Cup <b>Bracket</b></span>
+  <span class="spacer"></span>
+  <div class="navlinks" id="navlinks">
+    <a data-route="#/" >Leaderboard</a>
+    <a data-route="#/bracket">Bracket</a>
+    <a data-route="#/players">Players</a>
+    <a data-route="#/admin">Admin</a>
+  </div>
+  <button class="cta" onclick="location.hash='#/build'">Build yours</button>
+</nav>
+<div id="app"></div>
+<footer class="footer">
+  <img src="/assets/mox-logo.png" alt="MOX">
+  <span>World Cup Bracket Challenge — MOX Collective</span>
+  <span class="spacer"></span>
+  <span id="liveflag"></span>
+</footer>
+<script src="/app.js"></script>
+</body>
+</html>

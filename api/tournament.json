@@ -1,0 +1,473 @@
+{
+  "name": "FIFA World Cup 2026 — Knockout",
+  "subtitle": "Round of 32 → Champion",
+  "locked": false,
+  "rounds": [
+    {
+      "key": "R32",
+      "name": "Round of 32",
+      "points": 1
+    },
+    {
+      "key": "R16",
+      "name": "Round of 16",
+      "points": 2
+    },
+    {
+      "key": "QF",
+      "name": "Quarterfinals",
+      "points": 4
+    },
+    {
+      "key": "SF",
+      "name": "Semifinals",
+      "points": 8
+    },
+    {
+      "key": "F",
+      "name": "Final",
+      "points": 16
+    }
+  ],
+  "teams": {
+    "CAN": {
+      "name": "Canada"
+    },
+    "RSA": {
+      "name": "South Africa"
+    },
+    "NED": {
+      "name": "Netherlands"
+    },
+    "MAR": {
+      "name": "Morocco"
+    },
+    "GER": {
+      "name": "Germany"
+    },
+    "PAR": {
+      "name": "Paraguay"
+    },
+    "FRA": {
+      "name": "France"
+    },
+    "SWE": {
+      "name": "Sweden"
+    },
+    "POR": {
+      "name": "Portugal"
+    },
+    "CRO": {
+      "name": "Croatia"
+    },
+    "ESP": {
+      "name": "Spain"
+    },
+    "AUT": {
+      "name": "Austria"
+    },
+    "USA": {
+      "name": "USA"
+    },
+    "BIH": {
+      "name": "Bosnia & Herz."
+    },
+    "BEL": {
+      "name": "Belgium"
+    },
+    "SEN": {
+      "name": "Senegal"
+    },
+    "BRA": {
+      "name": "Brazil"
+    },
+    "JPN": {
+      "name": "Japan"
+    },
+    "CIV": {
+      "name": "Ivory Coast"
+    },
+    "NOR": {
+      "name": "Norway"
+    },
+    "MEX": {
+      "name": "Mexico"
+    },
+    "ECU": {
+      "name": "Ecuador"
+    },
+    "ENG": {
+      "name": "England"
+    },
+    "COD": {
+      "name": "DR Congo"
+    },
+    "ARG": {
+      "name": "Argentina"
+    },
+    "CPV": {
+      "name": "Cape Verde"
+    },
+    "AUS": {
+      "name": "Australia"
+    },
+    "EGY": {
+      "name": "Egypt"
+    },
+    "SUI": {
+      "name": "Switzerland"
+    },
+    "ALG": {
+      "name": "Algeria"
+    },
+    "COL": {
+      "name": "Colombia"
+    },
+    "GHA": {
+      "name": "Ghana"
+    }
+  },
+  "matches": [
+    {
+      "id": "M1",
+      "round": "R32",
+      "a": {
+        "team": "CAN"
+      },
+      "b": {
+        "team": "RSA"
+      },
+      "winner": null
+    },
+    {
+      "id": "M2",
+      "round": "R32",
+      "a": {
+        "team": "NED"
+      },
+      "b": {
+        "team": "MAR"
+      },
+      "winner": null
+    },
+    {
+      "id": "M3",
+      "round": "R32",
+      "a": {
+        "team": "GER"
+      },
+      "b": {
+        "team": "PAR"
+      },
+      "winner": null
+    },
+    {
+      "id": "M4",
+      "round": "R32",
+      "a": {
+        "team": "FRA"
+      },
+      "b": {
+        "team": "SWE"
+      },
+      "winner": null
+    },
+    {
+      "id": "M5",
+      "round": "R32",
+      "a": {
+        "team": "POR"
+      },
+      "b": {
+        "team": "CRO"
+      },
+      "winner": null
+    },
+    {
+      "id": "M6",
+      "round": "R32",
+      "a": {
+        "team": "ESP"
+      },
+      "b": {
+        "team": "AUT"
+      },
+      "winner": null
+    },
+    {
+      "id": "M7",
+      "round": "R32",
+      "a": {
+        "team": "USA"
+      },
+      "b": {
+        "team": "BIH"
+      },
+      "winner": null
+    },
+    {
+      "id": "M8",
+      "round": "R32",
+      "a": {
+        "team": "BEL"
+      },
+      "b": {
+        "team": "SEN"
+      },
+      "winner": null
+    },
+    {
+      "id": "M9",
+      "round": "R32",
+      "a": {
+        "team": "BRA"
+      },
+      "b": {
+        "team": "JPN"
+      },
+      "winner": null
+    },
+    {
+      "id": "M10",
+      "round": "R32",
+      "a": {
+        "team": "CIV"
+      },
+      "b": {
+        "team": "NOR"
+      },
+      "winner": null
+    },
+    {
+      "id": "M11",
+      "round": "R32",
+      "a": {
+        "team": "MEX"
+      },
+      "b": {
+        "team": "ECU"
+      },
+      "winner": null
+    },
+    {
+      "id": "M12",
+      "round": "R32",
+      "a": {
+        "team": "ENG"
+      },
+      "b": {
+        "team": "COD"
+      },
+      "winner": null
+    },
+    {
+      "id": "M13",
+      "round": "R32",
+      "a": {
+        "team": "ARG"
+      },
+      "b": {
+        "team": "CPV"
+      },
+      "winner": null
+    },
+    {
+      "id": "M14",
+      "round": "R32",
+      "a": {
+        "team": "AUS"
+      },
+      "b": {
+        "team": "EGY"
+      },
+      "winner": null
+    },
+    {
+      "id": "M15",
+      "round": "R32",
+      "a": {
+        "team": "SUI"
+      },
+      "b": {
+        "team": "ALG"
+      },
+      "winner": null
+    },
+    {
+      "id": "M16",
+      "round": "R32",
+      "a": {
+        "team": "COL"
+      },
+      "b": {
+        "team": "GHA"
+      },
+      "winner": null
+    },
+    {
+      "id": "M17",
+      "round": "R16",
+      "a": {
+        "from": "M1"
+      },
+      "b": {
+        "from": "M2"
+      },
+      "winner": null
+    },
+    {
+      "id": "M18",
+      "round": "R16",
+      "a": {
+        "from": "M3"
+      },
+      "b": {
+        "from": "M4"
+      },
+      "winner": null
+    },
+    {
+      "id": "M19",
+      "round": "R16",
+      "a": {
+        "from": "M5"
+      },
+      "b": {
+        "from": "M6"
+      },
+      "winner": null
+    },
+    {
+      "id": "M20",
+      "round": "R16",
+      "a": {
+        "from": "M7"
+      },
+      "b": {
+        "from": "M8"
+      },
+      "winner": null
+    },
+    {
+      "id": "M21",
+      "round": "R16",
+      "a": {
+        "from": "M9"
+      },
+      "b": {
+        "from": "M10"
+      },
+      "winner": null
+    },
+    {
+      "id": "M22",
+      "round": "R16",
+      "a": {
+        "from": "M11"
+      },
+      "b": {
+        "from": "M12"
+      },
+      "winner": null
+    },
+    {
+      "id": "M23",
+      "round": "R16",
+      "a": {
+        "from": "M13"
+      },
+      "b": {
+        "from": "M14"
+      },
+      "winner": null
+    },
+    {
+      "id": "M24",
+      "round": "R16",
+      "a": {
+        "from": "M15"
+      },
+      "b": {
+        "from": "M16"
+      },
+      "winner": null
+    },
+    {
+      "id": "M25",
+      "round": "QF",
+      "a": {
+        "from": "M17"
+      },
+      "b": {
+        "from": "M18"
+      },
+      "winner": null
+    },
+    {
+      "id": "M26",
+      "round": "QF",
+      "a": {
+        "from": "M19"
+      },
+      "b": {
+        "from": "M20"
+      },
+      "winner": null
+    },
+    {
+      "id": "M27",
+      "round": "QF",
+      "a": {
+        "from": "M21"
+      },
+      "b": {
+        "from": "M22"
+      },
+      "winner": null
+    },
+    {
+      "id": "M28",
+      "round": "QF",
+      "a": {
+        "from": "M23"
+      },
+      "b": {
+        "from": "M24"
+      },
+      "winner": null
+    },
+    {
+      "id": "M29",
+      "round": "SF",
+      "a": {
+        "from": "M25"
+      },
+      "b": {
+        "from": "M26"
+      },
+      "winner": null
+    },
+    {
+      "id": "M30",
+      "round": "SF",
+      "a": {
+        "from": "M27"
+      },
+      "b": {
+        "from": "M28"
+      },
+      "winner": null
+    },
+    {
+      "id": "M31",
+      "round": "F",
+      "a": {
+        "from": "M29"
+      },
+      "b": {
+        "from": "M30"
+      },
+      "winner": null
+    }
+  ]
+}
